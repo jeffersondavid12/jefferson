@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68caa838-689a-4e54-b51f-207b842d2924" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hW2ur7BfokOZcJneb46KHHdlep" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kevin\OneDrive\Escritorio\proyecto\pagina4\contact\templates\contact" />
+      <recent name="C:\Users\JefersonIdiot\Desktop\proyecto\pagina4\blog\templates\blog" />
+      <recent name="C:\Users\JefersonIdiot\Desktop\proyecto\pagina4\services\templates\services" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kevin\OneDrive\Escritorio\proyecto\pagina4\blog\templates\blog" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68caa838-689a-4e54-b51f-207b842d2924" name="Default Changelist" comment="" />
+      <created>1600112752438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600112752438</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="156" key="FileChooserDialogImpl" timestamp="1603066967647">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="578" y="156" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1600458356566" />
+    <state x="768" y="156" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603066967647" />
+    <state x="70" y="5" key="SettingsEditor" timestamp="1601333529404">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="70" y="5" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1601333529404" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1601574005810">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1600457906587" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1601574005810" />
+    <state x="389" y="-1" width="805" height="660" key="find.popup" timestamp="1603064202712">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="293" y="-1" width="606" height="660" key="find.popup/0.0.1024.728@0.0.1024.728" timestamp="1600887443088" />
+    <state x="389" y="-1" width="805" height="660" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1603064202712" />
+    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600210209289">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1024.728@0.0.1024.728" timestamp="1600210209289" />
+  </component>
+</project>
